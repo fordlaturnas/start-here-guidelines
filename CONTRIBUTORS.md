@@ -2214,6 +2214,8 @@
 
 - [@Divyajyoti1801](https://github.com/Divyajyoti1801)
 
+- [@JFlo21](https://github.com/JFlo21)
+
 - [@Divyanshu49](https://github.com/divyanshu49)
 
 - [@Divyanshugehlot](https://github.com/divyanshugehlot/)
@@ -12022,6 +12024,8 @@
 
 - [@AdithyaNavada](https://github.com/AdithyaNavada/)
 
+- [@Luis-Rodriguez-02](https://github.com/Luis-Rodriguez-02)
+
 - [@fgulde](https://github.com/fgulde/)
 
 - [@Rishi](https://github.com/RishiMishra3004)
@@ -12053,3 +12057,5 @@
 - [@vasukotadiya7](https://github.com/vasukotadiya7)
 
 - [@lazab2011](https://github.com/lazab2011)
+
+- [@dilvojunior](https://github.com/dilvojunior)
