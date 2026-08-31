@@ -54,6 +54,8 @@
 
 - [@A.Do](https://github.com/Jrho-0)
 
+- [@Ayush](https://github.com/ayushtripathi-45)
+
 - [@vinicius-goulart](https://github.com/vinicius-goulart)
 
 - [@A510102](https://github.com/a510102)
